@@ -28,7 +28,7 @@ For labeled data:
 │   ├── ct_512x.npz   # CT (512×512×512) used to generate X-rays
 │   ├── seg_mask.npz  # CT's bone masks (512×512×512) used to generate X-rays' bone masks
 │   ├── sampling.npz  # sampled points
-│   └── spacing.npz   # spacing for mesh/CT
+│   └── spacing.npz   # spacing for CT
 ````
 
 For unlabeled data:
