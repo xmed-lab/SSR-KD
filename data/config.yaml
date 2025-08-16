@@ -1,0 +1,23 @@
+
+# system configuration
+DSD: 2000 # distance source detector (mm)
+DSO: 1000 # distance source origin   (mm)
+
+# detector parameters
+nDetector: [512, 512] # number of pixels (px)
+dDetector: [0.575, 0.575] # size of each pixel (mm)
+
+# image parameters
+nVoxel: [512, 512, 512] # number of voxels (vx) [x, y, z]
+dVoxel: [0.5, 0.5, 0.5] # size of each voxel (mm)
+
+# offsets
+offOrigin: [0, 0, 0] # offset of image from origin (mm) [x, y, z]
+offDetector: [0, 0]  # offset of detector (only in two direction) (mm) [u, v]
+
+# Auxiliary
+accuracy: 0.5 # accuracy of FWD proj (vx/sample)
+
+# Mode
+mode: cone # x-ray source mode parallel/cone
+filter: null
