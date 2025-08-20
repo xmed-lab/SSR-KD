@@ -1,6 +1,18 @@
 ## SSR-KD
 
-Yiqun Lin, et al. "Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols."
+Yiqun Lin, et al. "Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols." [arxiv](https://arxiv.org/abs/2508.13947)
+
+```
+@misc{lin2025realtimepopulationbasedreconstruction3d,
+      title={Real-Time, Population-Based Reconstruction of 3D Bone Models via Very-Low-Dose Protocols}, 
+      author={Yiqun Lin and Haoran Sun and Yongqing Li and Rabia Aslam and Lung Fung Tse and Tiange Cheng and Chun Sing Chui and Wing Fung Yau and Victorine R. Le Meur and Meruyert Amangeldy and Kiho Cho and Yinyu Ye and James Zou and Wei Zhao and Xiaomeng Li},
+      year={2025},
+      eprint={2508.13947},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2508.13947}, 
+}
+```
 
 ### 1. Code Structure
 
